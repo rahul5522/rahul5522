@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul
 - 👀 I’m interested in Open Source
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN stack.
 
 
 <!---
