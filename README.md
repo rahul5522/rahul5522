@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rahul
-- 👀 I’m interested in Open Source
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently exploring node and mongoDB.
 
 
 <!---
