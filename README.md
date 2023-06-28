@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul
-- 🌱 I’m currently exploring node and mongoDB.
+- 🌱 I’m currently exploring JAVASCRIPT.
 - 🔗 https://rahul-waghmare-portfolio.netlify.app/
 
 
