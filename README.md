@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul
 - 🌱 I’m currently exploring node and mongoDB.
-- Portfolio : https://rahul-waghmare-portfolio.netlify.app/
+- 🔗 https://rahul-waghmare-portfolio.netlify.app/
 
 
 <!---
