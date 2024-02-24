@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahul
 - 🌱 I’m currently exploring JAVASCRIPT.
 - 🔗 https://rahul-waghmare-portfolio.netlify.app/
-- .
 
 <!---
 rahul5522/rahul5522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
